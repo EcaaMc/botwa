@@ -26,10 +26,10 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['628811929177']
-global.premium = ['628811929177']
-global.packname = 'LoliBot MD'
-global.author = 'LoliBot MD'
+global.owner = ['6282228877291']
+global.premium = ['6282228877291']
+global.packname = 'CacaBot-MD'
+global.author = 'CacaBot-MD'
 global.sessionName = 'lolibot'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
@@ -47,7 +47,7 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 15
 }
 global.thumb = fs.readFileSync('./lib/apri.jpg')
 
